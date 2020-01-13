@@ -1,0 +1,59 @@
+
+.result {
+  height: 65px;
+  background-color: #bbb;
+  width: 100%;
+  text-align: right;
+}
+html, body, .Login-component {
+  height: 100%;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcScmIHTZneK0kjpLfVB8Ux3nRb3_jfdIO09uMIDeFiQAfKvvt15");
+
+}
+.result p {
+  font-size: 40px;
+  margin: 5px;
+
+}
+.header{
+  display: flex;
+  justify-content:center;
+}
+
+.calculator-body {
+  max-width: 400px;
+  margin: auto;
+}
+
+.button {
+  display: block;
+  background-color: #bbb;
+}
+
+button {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  border-radius: 4px;
+}
+.equal{
+  background-color: green;
+}
+
+.black{
+  background-color: black;
+  color: white;
+}
+.Clear{
+  background-color: red;
+  color: white;
+}
+.gray{
+  background-color: gray;
+  color: white;
+}
+.roundButton
+{
+  background-color: white;
+}
+
